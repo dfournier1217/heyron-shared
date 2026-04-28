@@ -20,9 +20,9 @@
 - Volume increasing
 
 ### Exit
-- Target: 1.5:1 risk:reward
+- Target: 3:1 risk:reward
 - Stop: Close below EMA 9 on 5-min chart
-- Trail stop to breakeven at 1:1
+- Trail stop to breakeven at 1.5:1
 
 --
 
